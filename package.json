@@ -1,0 +1,12 @@
+{
+  "name": "htop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.19",
+    "os-utils": "0.0.14",
+    "process-list": "^2.0.0"
+  }
+}
